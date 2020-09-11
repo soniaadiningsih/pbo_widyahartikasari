@@ -1,0 +1,2 @@
+lsegitiga.Luas
+lsegitiga.Lsegitiga
